@@ -4,11 +4,11 @@ This will be the initial repoistory where I will investigate scrapping flight co
 
 Plans
 
-[] Lookup list of countries:cities and get their ariport codes 
+[x] Lookup list of countries:cities and get their ariport codes 
 
-[] Ensure this is formatted in the correct way for the flight web URLs required to search for flights
+[x] Ensure this is formatted in the correct way for the flight web URLs required to search for flights
 
-[] Build the web request for KAYAK
+[x] Build the web request for KAYAK
 
 [] Format the results and capture the key results in a dataframe and save this to csv
 
@@ -25,5 +25,9 @@ Planned
 [] Search flight for one week away
 
 [] Search flight for one month away
+
+[] Function to match other names of countries maybe - i.e. Laos > Lao People's Democratic Republic > Lao
+
+[] Have a close cities lookup feature, list of cities you're travelling to. Find cities with 50 miles of those cities
 
 [] Compare costs to another flight provider? Will require a lot of extra work

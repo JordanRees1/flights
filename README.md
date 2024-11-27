@@ -1,10 +1,10 @@
 # flights
 
-This will be the initial repoistory where I will investigate scrapping flight comparision websites in order to find the average cost between locations.
+This will be the initial repository where I will investigate scrapping flight comparison websites in order to find the average cost between locations.
 
 Plans
 
-[x] Lookup list of countries:cities and get their ariport codes 
+[x] Lookup list of countries:cities and get their airport codes 
 
 [x] Ensure this is formatted in the correct way for the flight web URLs required to search for flights
 

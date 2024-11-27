@@ -12,7 +12,7 @@
 Below are some of the most suitable sites I could find that seem the most parsable and have limited bot/JS checks in place currently as of 11/24.
 
 1. kayak: https://www.kayak.co.uk/
-Format of URL: flights/MAN-GVA/2024-12-21/?sort=price_a&fs=takeoff=0600,1300;stops=0;legdur=-180;
+Format of URL: flights/MAN-GVA/2024-12-21/2024-12-28?sort=bestflight_a&fs=takeoff=0600,1300;stops=0;legdur=-180;
 Options appended to URL: Y 
 Data privacy popup: Y
 
